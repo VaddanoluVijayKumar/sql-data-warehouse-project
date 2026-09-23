@@ -38,7 +38,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me[cite: 1]
+## 🌟 About Me
 
 Hi there! I'm **Vijay Kumar Vaddanolu**. I'm building this project, to show my SQL knowledge and skills.
 
